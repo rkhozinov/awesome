@@ -50,6 +50,7 @@ A carefully selected list of the awesome resources I came across.
  * [Sublime Text](http://www.sublimetext.com/)
  * [Android File Transfer](https://www.android.com/intl/en_uk/filetransfer/)
  * [VLC](http://www.videolan.org/vlc/)
+ * [LibreOffice](http://www.libreoffice.org/)
 
 *Development*
 
