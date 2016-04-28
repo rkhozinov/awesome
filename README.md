@@ -12,6 +12,10 @@ A carefully selected list of the awesome resources I came across.
 
 ## Repositories
 
+*Dotfiles*
+
+ * [pearl-core/pearl](https://github.com/pearl-core/pearl)
+
 *Virtualization*
 
  * [joefitzgerald/packer-windows](https://github.com/joefitzgerald/packer-windows)
