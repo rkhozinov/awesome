@@ -24,6 +24,7 @@ A carefully selected list of the awesome resources I came across.
 
 *Personal Performance*
 
+ * [Code Katas](http://www.codekatas.org/)
  * [A Modern Space Cadet](http://stevelosh.com/blog/2012/10/a-modern-space-cadet)
 
 *Software Development Best Practices*
