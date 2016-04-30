@@ -44,6 +44,10 @@ A carefully selected list of the awesome resources I came across.
 
  * [J.B. Rainsberger - Integrated Tests Are A Scam](https://vimeo.com/80533536)
 
+*Operating Systems*
+
+ * [Microkernels and component-based operating systems](http://slideslive.com/38896257/microkernels-and-componentbased-operating-systems)
+
 ## Software
 
 *General*
